@@ -1,5 +1,3 @@
-
-
 <div align=center> <img src="docs/images/curve-logo1-nobg.png" width = 45%>
 
 <div align=center> <image src="docs/images/cncf-icon-color.png" width = 8%>
